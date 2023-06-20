@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebShopPhenNet6.props" />
+</Project>
