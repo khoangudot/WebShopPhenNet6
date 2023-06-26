@@ -1,5 +1,4 @@
 class OrderList {
-
     static init() {
         $('.select2').select2();
 
@@ -10,4 +9,3 @@ class OrderList {
 }
 
 $(() => { OrderList.init(); });
-

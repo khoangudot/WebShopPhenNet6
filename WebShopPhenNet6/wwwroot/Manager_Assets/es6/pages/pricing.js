@@ -1,7 +1,5 @@
 class PagesPricing {
-
     static init() {
-
         $('#monthly-btn').on('click', (e) => {
             $('#monthly-view').removeClass('d-none');
             $('#annual-view').addClass('d-none')
@@ -19,4 +17,3 @@ class PagesPricing {
 }
 
 $(() => { PagesPricing.init(); });
-

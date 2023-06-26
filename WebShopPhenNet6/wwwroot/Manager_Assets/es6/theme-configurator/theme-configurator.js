@@ -1,5 +1,4 @@
 function themeConfigurator() {
-
     $(document).on('change', 'input[name="header-theme"]', ()=>{
         const context = $('input[name="header-theme"]:checked').val();
         console.log(context)
@@ -12,7 +11,7 @@ function themeConfigurator() {
         $('.app .layout').toggleClass("is-side-nav-dark");
         e.preventDefault();
     });
-    
+
     $('#side-nav-fold-toogle').on('change', (e)=> {
         $('.app .layout').toggleClass("is-folded");
         e.preventDefault();

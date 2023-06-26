@@ -1,7 +1,6 @@
 import themeColors from '../constant/theme-constant'
 
 class DashboardCRM {
-
     static init() {
         const ratingChart = document.getElementById("rating-chart");
         const ratingChartCtx = ratingChart.getContext('2d');
@@ -41,7 +40,7 @@ class DashboardCRM {
                     }
                 },
                 scales: {
-                    xAxes: [{ 
+                    xAxes: [{
                         gridLines: [{
                             display: false,
                         }],
@@ -117,7 +116,7 @@ class DashboardCRM {
                             zeroLineBorderDash: [3, 4]
                         },
                         ticks: {
-                            max: 80,                            
+                            max: 80,
                             stepSize: 20,
                             display: true,
                             beginAtZero: true,
@@ -139,7 +138,7 @@ class DashboardCRM {
                 borderWidth: 0
               }]
             },
-        
+
             options: {
               scales: {
                 xAxes: [{
@@ -164,4 +163,3 @@ class DashboardCRM {
 }
 
 $(() => { DashboardCRM.init(); });
-

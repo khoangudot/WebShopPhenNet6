@@ -1,5 +1,4 @@
 class ComponentSlider {
-
     static init() {
         const horizonPrimary = document.getElementById('horizon-primary');
         const verticalPrimary = document.getElementById('vertical-default');
@@ -65,4 +64,3 @@ class ComponentSlider {
 }
 
 $(() => { ComponentSlider.init(); });
-

@@ -1,7 +1,5 @@
 class FormValidation {
-
     static init() {
-
         $( "#form-validation" ).validate({
             ignore: ':hidden:not(:checkbox)',
             errorElement: 'div',
@@ -18,7 +16,7 @@ class FormValidation {
                 inputMaxLength: {
                     required: true,
                     minlength: 8
-                }, 
+                },
                 inputUrl: {
                     required: true,
                     url: true
@@ -64,4 +62,3 @@ class FormValidation {
 }
 
 $(() => { FormValidation.init(); });
-

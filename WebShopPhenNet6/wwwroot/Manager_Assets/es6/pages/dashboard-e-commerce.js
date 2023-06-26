@@ -1,9 +1,7 @@
 import themeColors from '../constant/theme-constant'
 
 class DashboardECommerce {
-
     static init() {
-        
         const salesChart = document.getElementById("sales-chart");
         const salesChartCtx = salesChart.getContext('2d');
         salesChart.height = 120;
@@ -62,7 +60,7 @@ class DashboardECommerce {
                             zeroLineBorderDash: [3, 4]
                         },
                         ticks: {
-                            max: 80,                            
+                            max: 80,
                             stepSize: 20,
                             display: true,
                             beginAtZero: true,
@@ -81,7 +79,7 @@ class DashboardECommerce {
             type: 'line',
             data: {
                 labels: ["16th", "17th", "18th", "19th", "20th", "21th", "22th", "23th", "24th", "25th", "26th"],
-                datasets: [ 
+                datasets: [
                     {
                         backgroundColor: themeColors.transparent,
                         borderColor: themeColors.cyan,
@@ -90,7 +88,7 @@ class DashboardECommerce {
                         pointHoverBackgroundColor: themeColors.cyanLight,
                         pointHoverBorderColor: themeColors.cyanLight,
                         data: [30, 60, 40, 50, 40, 55, 85, 65, 75, 50, 70],
-                        label: 'Series A' 
+                        label: 'Series A'
                     }
                 ]
             },
@@ -108,7 +106,7 @@ class DashboardECommerce {
                     mode: 'index'
                 },
                 scales: {
-                    xAxes: [{ 
+                    xAxes: [{
                         gridLines: [{
                             display: false,
                         }],
@@ -125,16 +123,16 @@ class DashboardECommerce {
                             drawTicks: false,
                             borderDash: [3, 4],
                             zeroLineWidth: 1,
-                            zeroLineBorderDash: [3, 4]  
+                            zeroLineBorderDash: [3, 4]
                         },
                         ticks: {
                             display: true,
-                            max: 100,                            
+                            max: 100,
                             stepSize: 20,
                             fontColor: themeColors.grayLight,
                             fontSize: 13,
                             padding: 10
-                        }  
+                        }
                     }],
                 }
             }
@@ -168,4 +166,3 @@ class DashboardECommerce {
 }
 
 $(() => { DashboardECommerce.init(); });
-

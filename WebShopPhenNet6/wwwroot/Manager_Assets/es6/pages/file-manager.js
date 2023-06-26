@@ -1,7 +1,5 @@
 class FileManager {
-
     static init() {
-
         const hide = 'd-none'
         const fileItems = '.file-manager-content-files .file';
         const fileDetail = '.file-manager-content-details .content-details';
@@ -49,4 +47,3 @@ class FileManager {
 }
 
 $(() => { FileManager.init(); });
-

@@ -1,7 +1,5 @@
 class PagesProfile {
-
     static init() {
-
         $('#list-view-btn').on('click', (e) => {
             $('#list-view').removeClass('d-none');
             $('#card-view').addClass('d-none')
@@ -19,4 +17,3 @@ class PagesProfile {
 }
 
 $(() => { PagesProfile.init(); });
-

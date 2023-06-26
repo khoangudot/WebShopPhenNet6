@@ -1,9 +1,7 @@
 import themeColors from '../constant/theme-constant'
 
 class DashboardDefault {
-
     static init() {
-
         const revenueChartConfig = new Chart(document.getElementById("revenue-chart").getContext('2d'), {
             type: 'line',
             data: {
@@ -33,7 +31,7 @@ class DashboardDefault {
                     mode: 'index'
                 },
                 scales: {
-                    xAxes: [{ 
+                    xAxes: [{
                         gridLines: [{
                             display: false,
                         }],
@@ -50,16 +48,16 @@ class DashboardDefault {
                             drawTicks: false,
                             borderDash: [3, 4],
                             zeroLineWidth: 1,
-                            zeroLineBorderDash: [3, 4]  
+                            zeroLineBorderDash: [3, 4]
                         },
                         ticks: {
                             display: true,
-                            max: 100,                            
+                            max: 100,
                             stepSize: 20,
                             fontColor: themeColors.grayLight,
                             fontSize: 13,
                             padding: 10
-                        }  
+                        }
                     }],
                 }
             }
@@ -146,7 +144,7 @@ class DashboardDefault {
                             zeroLineWidth: 1,
                             zeroLineBorderDash: [3, 4]
                         },
-                        ticks: {                           
+                        ticks: {
                             stepSize: 40,
                             display: true,
                             beginAtZero: true,
@@ -161,4 +159,3 @@ class DashboardDefault {
 }
 
 $(() => { DashboardDefault.init(); });
-

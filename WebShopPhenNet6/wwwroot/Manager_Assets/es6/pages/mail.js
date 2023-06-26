@@ -1,5 +1,4 @@
 class AppMail {
-
     static init() {
         $('#mail-list .mail-list .list-info').on('click', (e) => {
             $('#mail-list').addClass('d-none')
@@ -34,7 +33,7 @@ class AppMail {
 
         $("#checkAll").on('change',function(){
             $('#mail-list input[type="checkbox"]').prop('checked',$(this).is(":checked"));
-        }); 
+        });
 
         new Quill('#mail-compose-editor', {
             theme: 'snow'
@@ -43,4 +42,3 @@ class AppMail {
 }
 
 $(() => { AppMail.init(); });
-

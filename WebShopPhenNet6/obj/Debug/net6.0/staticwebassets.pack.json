@@ -3105,6 +3105,426 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\all.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\baguetteBox.min.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\baguetteBox.min.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\bootsnav.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\bootsnav.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\bootstrap-select.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\bootstrap-select.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\carousel-ticker.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\carousel-ticker.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\code_animate.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\code_animate.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\css\\superslides.css",
+      "PackagePath": "staticwebassets\\home_assets\\css\\superslides.css"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\add-img-01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\add-img-01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\add-img-02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\add-img-02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\all-bg-title.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\all-bg-title.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\big-img-01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\big-img-01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\big-img-02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\big-img-02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\big-img-03.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\big-img-03.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\blog-img-01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\blog-img-01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\blog-img-02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\blog-img-02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\blog-img.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\blog-img.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\categories_img_01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\categories_img_01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\categories_img_02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\categories_img_02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\categories_img_03.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\categories_img_03.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\home_assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-03.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-03.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-04.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-04.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-05.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-05.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-06.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-06.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-07.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-07.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-08.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-08.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-09.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-09.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-10.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-10.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-11.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-11.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\gallery-img-12.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\gallery-img-12.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\img-1.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\img-1.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\img-2.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\img-2.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\img-3.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\img-3.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\img-pro-01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\img-pro-01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\img-pro-02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\img-pro-02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\img-pro-03.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\img-pro-03.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\img-pro-04.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\img-pro-04.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\ins-bg.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\ins-bg.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-03.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-03.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-04.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-04.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-05.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-05.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-06.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-06.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-07.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-07.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-08.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-08.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\instagram-img-09.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\instagram-img-09.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\payment-icon\\1.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\payment-icon\\1.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\payment-icon\\2.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\payment-icon\\2.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\payment-icon\\3.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\payment-icon\\3.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\payment-icon\\4.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\payment-icon\\4.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\payment-icon\\5.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\payment-icon\\5.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\payment-icon\\6.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\payment-icon\\6.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\payment-icon\\7.png",
+      "PackagePath": "staticwebassets\\home_assets\\images\\payment-icon\\7.png"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\smp-img-01.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\smp-img-01.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\smp-img-02.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\smp-img-02.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\images\\smp-img-03.jpg",
+      "PackagePath": "staticwebassets\\home_assets\\images\\smp-img-03.jpg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\baguetteBox.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\baguetteBox.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\bootsnav.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\bootsnav.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\bootstrap-select.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\bootstrap-select.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\images-loded.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\images-loded.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\inewsticker.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\inewsticker.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\jquery.superslides.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\jquery.superslides.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\home_assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\php\\form-process.php",
+      "PackagePath": "staticwebassets\\home_assets\\php\\form-process.php"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\home_assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\home_assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
       "Id": "D:\\Fshop\\C# Introduction\\WebShopPhenNet6\\WebShopPhenNet6\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

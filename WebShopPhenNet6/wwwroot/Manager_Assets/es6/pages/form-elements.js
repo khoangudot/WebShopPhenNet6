@@ -1,5 +1,4 @@
 class FormElements {
-
     static init() {
         $('.select2').select2();
         $('.datepicker-input').datepicker();
@@ -11,4 +10,3 @@ class FormElements {
 }
 
 $(() => { FormElements.init(); });
-

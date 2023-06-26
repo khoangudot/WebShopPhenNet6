@@ -1,6 +1,4 @@
-
 const ThemeConstant = {
-   
     magenta: '#eb2f96',
     magentaLight: 'rgba(235, 47, 150, 0.05)',
     red: '#de4436',

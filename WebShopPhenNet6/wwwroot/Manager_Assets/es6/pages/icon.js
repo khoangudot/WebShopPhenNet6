@@ -1,5 +1,4 @@
 class Icon {
-
     static init() {
         function copy(value)  {
             const promise = new Promise((resolve) => {
@@ -20,7 +19,7 @@ class Icon {
                     }
                 }
             });
-    
+
             return (promise);
         }
 
@@ -31,10 +30,10 @@ class Icon {
                     <span class="ml-1">Copied</span>
                 </div>
             </div>`
-        
+
             $('#notification-toast').append(toastHTML)
             $('#notification-toast .toast').toast('show');
-            setTimeout(function(){ 
+            setTimeout(function(){
                 $('#notification-toast .toast:first-child').remove();
             }, 1500);
         }
@@ -47,8 +46,6 @@ class Icon {
             });
         })
     }
-    
 }
 
 $(() => { Icon.init(); });
-

@@ -1,11 +1,9 @@
 import themeColors from '../constant/theme-constant'
 
 class DashboardProject {
-
     static init() {
-        
         $('.datepicker-calendar').datepicker();
-        
+
         const completionChart = document.getElementById("completion-chart");
         let gradient = completionChart.getContext('2d').createLinearGradient(0, 30, 10, 320);
         gradient.addColorStop(0, themeColors.blueLight);
@@ -47,7 +45,7 @@ class DashboardProject {
                     }
                 },
                 scales: {
-                    xAxes: [{ 
+                    xAxes: [{
                         gridLines: [{
                             display: false,
                         }],
@@ -64,16 +62,16 @@ class DashboardProject {
                             drawTicks: false,
                             borderDash: [3, 4],
                             zeroLineWidth: 1,
-                            zeroLineBorderDash: [3, 4]  
+                            zeroLineBorderDash: [3, 4]
                         },
                         ticks: {
                             display: true,
-                            max: 100,                            
+                            max: 100,
                             stepSize: 20,
                             fontColor: themeColors.grayLight,
                             fontSize: 13,
                             padding: 10
-                        }  
+                        }
                     }],
                 }
             }
@@ -82,4 +80,3 @@ class DashboardProject {
 }
 
 $(() => { DashboardProject.init(); });
-

@@ -542,3 +542,4 @@ D:\Fshop\C# Introduction\WebShopPhenNet6\WebShopPhenNet6\obj\Debug\net6.0\refint
 D:\Fshop\C# Introduction\WebShopPhenNet6\WebShopPhenNet6\obj\Debug\net6.0\WebShopPhenNet6.pdb
 D:\Fshop\C# Introduction\WebShopPhenNet6\WebShopPhenNet6\obj\Debug\net6.0\WebShopPhenNet6.genruntimeconfig.cache
 D:\Fshop\C# Introduction\WebShopPhenNet6\WebShopPhenNet6\obj\Debug\net6.0\ref\WebShopPhenNet6.dll
+D:\Fshop\C# Introduction\WebShopPhenNet6\WebShopPhenNet6\obj\Debug\net6.0\scopedcss\Areas\Manager\Views\Shared\_ManagerLayout.cshtml.rz.scp.css

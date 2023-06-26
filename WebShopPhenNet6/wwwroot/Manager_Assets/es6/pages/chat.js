@@ -1,7 +1,5 @@
 class Chat {
-
     static init() {
-
         const chartContent = '.chat-content'
 
         $('.chat-user-list .chat-list-item').on('click', () => {
@@ -15,4 +13,3 @@ class Chat {
 }
 
 $(() => { Chat.init(); });
-
